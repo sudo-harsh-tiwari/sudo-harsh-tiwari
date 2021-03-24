@@ -1,10 +1,11 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Harsh Tiwari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+<!--
 ![Twitter Follow](https://img.shields.io/twitter/follow/imharshhub?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iharshtiwari/)](https://www.linkedin.com/in/iharshtiwari)
 ![GitHub followers](https://img.shields.io/github/followers/sudo-harsh-tiwari?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=sudo-harsh-tiwari.sudo-harsh-tiwari)
+-->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
