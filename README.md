@@ -5,7 +5,6 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iharshtiwari/)](https://www.linkedin.com/in/iharshtiwari)
 ![GitHub followers](https://img.shields.io/github/followers/sudo-harsh-tiwari?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=sudo-harsh-tiwari.sudo-harsh-tiwari)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
