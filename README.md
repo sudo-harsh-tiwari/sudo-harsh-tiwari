@@ -25,7 +25,7 @@ const harsh = {
   frameworks: [Flutter, Flask],
 
   about: "I am a computer cience who is passionate about learning and creating solutions.\n
-          I am active on only social media called <a href =“https://twitter.com/imharshhub>harshhub/>.\n
+          I am active on only social media named twitter.\n
           I am currently exploring many horizons. :)"
 }
 ```
