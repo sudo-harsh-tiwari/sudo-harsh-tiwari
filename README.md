@@ -1,5 +1,7 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Harsh Tiwari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<h2>नमस्ते (Namaste)🙏🏻, I'm Harsh Tiwari! 
+  <!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> --> 
+</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 <!--
 ![Twitter Follow](https://img.shields.io/twitter/follow/imharshhub?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iharshtiwari/)](https://www.linkedin.com/in/iharshtiwari)
